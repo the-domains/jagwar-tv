@@ -5,7 +5,7 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://jagwar.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 20:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 20:38:02 GMT</lastBuildDate>
         <atom:link href="http://jagwar.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>http://jagwar.tv/58ac6861-ece6-4422-9d6a-4a94b989e232/index.html</link>
             <guid isPermaLink="false">58ac6861-ece6-4422-9d6a-4a94b989e232</guid>
             <pubDate>Wed, 29 Jul 2015 20:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5d9f721-f0c3-4d9f-af34-d04d5cc2a75a.jpg">]]></description>
+            <link>http://jagwar.tv/b606712c-0d7e-4602-857d-127474abedf0/index.html</link>
+            <guid isPermaLink="false">b606712c-0d7e-4602-857d-127474abedf0</guid>
+            <pubDate>Thu, 23 Jul 2015 00:13:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
