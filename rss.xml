@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jagwar.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 20:31:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jul 2015 20:31:19 GMT</lastBuildDate>
+        <atom:link href="http://jagwar.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08547f07-9b06-4a5f-a14f-228e69ae8279.jpg">]]></description>
+            <link>http://jagwar.tv/a01bda8b-18be-4a02-af0a-29c1be2b6eb6/index.html</link>
+            <guid isPermaLink="false">a01bda8b-18be-4a02-af0a-29c1be2b6eb6</guid>
+            <pubDate>Wed, 29 Jul 2015 20:30:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d796f0-099f-4b7b-83b1-b6f1d046aeb1.jpg">]]></description>
-            <link>undefined8ee0fe64-0cca-4aff-91b7-169d218f07ce/index.html</link>
+            <link>http://jagwar.tv/8ee0fe64-0cca-4aff-91b7-169d218f07ce/index.html</link>
             <guid isPermaLink="false">8ee0fe64-0cca-4aff-91b7-169d218f07ce</guid>
             <pubDate>Wed, 29 Jul 2015 20:30:44 GMT</pubDate>
         </item>
