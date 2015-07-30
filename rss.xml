@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://jagwar.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 22:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 22:54:29 GMT</lastBuildDate>
         <atom:link href="http://jagwar.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44de867c-9a2f-4fd2-93d6-33583c674c8e.jpg">]]></description>
+            <link>http://jagwar.tv/51519544-c98b-4024-b019-b2e33981f269/index.html</link>
+            <guid isPermaLink="false">51519544-c98b-4024-b019-b2e33981f269</guid>
+            <pubDate>Thu, 30 Jul 2015 22:54:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Jagwar is a company founded on experimentation and play and is proudly part of thegrid.io beta testing team. With that said, our site might be dysfunctional here and there, however the AI is making better every day. We appreciate your patience while we help shaping the future.</p>]]></description>
