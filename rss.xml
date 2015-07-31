@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[Jagwar Live]]></title>
+        <description><![CDATA[Jagwar Live]]></description>
         <link>http://jagwar.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 14:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 18:45:18 GMT</lastBuildDate>
         <atom:link href="http://jagwar.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jagwar help brands tell their story through design and animation. We focus on interactive, TV, apps and social content.]]></title>
