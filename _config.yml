@@ -1,6 +1,5 @@
 name: Jagwar Live
 favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.51581
 cta:
   domain: null
@@ -22,7 +21,7 @@ color:
     - '#b7b7b7'
     - '#969696'
   brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.6875
+  lightness: 0.6875
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
